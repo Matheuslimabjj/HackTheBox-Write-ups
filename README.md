@@ -13,4 +13,5 @@ Este repositório contém write-ups completos com:
 
 ### Screenshots e comandos utilizados
 
+---
 ⚠️ Disclaimer: Conteúdo apenas para fins educacionais.
